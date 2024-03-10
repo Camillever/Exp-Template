@@ -20,7 +20,7 @@ keywords = [
 dev = ["pytest", "pytest-cov", "pytest-mock", "pytest-check", "pytest-xdist", "pre-commit", "ruff"]
 
 [project.urls]
-Source = "https://github.com/Camillever/MyProject"
+Source = "project_url"
 
 [tool.setuptools]
 license-files = ['LICEN[CS]E*', 'COPYING*', 'NOTICE*', 'AUTHORS*']

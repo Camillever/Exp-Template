@@ -21,7 +21,7 @@ venv/Scripts/activate
 **2. Install the package using pip in your terminal:**
 
 ```bash
-pip install git+https://github.com/Camille-Huitorel-SLF/RockySweep.git
+pip install git+project_url.git
 ```
 
 # Constribute
